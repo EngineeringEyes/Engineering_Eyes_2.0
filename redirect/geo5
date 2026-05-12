@@ -1,6 +1,5 @@
 <!doctype html>
 <html lang="es">
-
 <head>
 
 <meta charset="utf-8">
@@ -21,120 +20,22 @@ body{
   font-family:Arial,sans-serif;
 }
 
-.box{
-  text-align:center;
-}
-
 .loader{
-  width:50px;
-  height:50px;
-  border:4px solid rgba(255,255,255,0.15);
-  border-top:4px solid #00a2ff;
-  border-radius:50%;
-  margin:auto;
-  animation:spin 1s linear infinite;
-}
-
-@keyframes spin{
-  to{
-    transform:rotate(360deg);
-  }
-}
-
-p{
-  margin-top:20px;
-  color:#dce6ff;
+  text-align:center;
 }
 
 </style>
 
-<script>
-
-setTimeout(() => {
-
-  window.location.href =
-  "https://go.hotmart.com/U102298220W";
-
-}, 1200);
-
-</script>
+<!-- REDIRECCIÓN -->
+<meta http-equiv="refresh"
+content="0; url=https://go.hotmart.com/U102298220W">
 
 </head>
 
 <body>
 
-<div class="box">
-
-  <div class="loader"></div>
-
-  <p>Redireccionando al contenido...</p>
-
-</div>
-
-</body>
-</html>
-}
-
-.box{
-
-  text-align:center;
-
-}
-
-.loader{
-
-  width:50px;
-
-  height:50px;
-
-  border:4px solid rgba(255,255,255,0.15);
-
-  border-top:4px solid #1f8fff;
-
-  border-radius:50%;
-
-  margin:auto;
-
-  animation:spin 1s linear infinite;
-
-}
-
-@keyframes spin{
-
-  100%{
-    transform:rotate(360deg);
-  }
-
-}
-
-p{
-  margin-top:20px;
-  color:#cfd6ff;
-}
-
-</style>
-
-<script>
-
-setTimeout(() => {
-
-  window.location.href =
-  "https://go.hotmart.com/U102298220W";
-
-}, 1200);
-
-</script>
-
-</head>
-
-<body>
-
-<div class="box">
-
-<div class="loader"></div>
-
-<p>Redireccionando...</p>
-
+<div class="loader">
+  🔄 Redireccionando...
 </div>
 
 </body>
